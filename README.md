@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Brodie
 - 👀 I’m interested in data science, visualisation and analysis
 - 🌱 I’m currently learning Unity3D to further improve my 3D data visualisation
-- 📫 Reach me via UpWork (Username) or at brodesp09@gmail.com
+- 📫 Reach me via UpWork (Brodie Proos) or at brodesp09@gmail.com
