@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Brodie
-- 👀 I’m interested in data science, visualisation and analysis
-- 🌱 I’m currently learning Unity3D to further improve my 3D data visualisation
-- 📫 Reach me via UpWork (Coming soon, once I expand my portfolio) or at brodesp09@gmail.com
+- 👀 I’m interested in data visualisations, desktop development, and frontend Web development. 
+- 🌱 I’m currently learning the concepts of OOP to further expand my knowledge
+- 📫 [Email me](maitto:brodesp09@gmail.com), or add me on Discord at brodie969
