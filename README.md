@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Brodie
 - 👀 I’m interested in data visualisations, desktop development, and frontend Web development. 
 - 🌱 I’m currently learning the concepts of OOP to further expand my knowledge
-- 📫 <a href="mailto:email@example.com">Email me</a>, or add me on Discord at brodie969
+- 📫 <a href="mailto:brodesp09@gmail.com">Email me</a>, or add me on Discord at brodie969
