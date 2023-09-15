@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Brodie
-- 👀 I’m interested in Data Visualisations, Desktop Development, and Frontend Web Development. 
-- 🌱 I’m currently learning Javascript
-- 📫 <a href="mailto:brodesp09@gmail.com">Email me</a>, or add me on Discord at brodie969
+- 👀 I’m Interested In Data Visualisations, Desktop Development, And Frontend Web Development.
+- 🌱 I’m Currently Learning Javascript
+- ❤️ MIT Licence Is My Favourite
+- 📫 <a href="mailto:brodesp09@gmail.com">Email Me</a>, Or Add Me On Discord At `brodie969`
